@@ -18,7 +18,10 @@
   - [Questions](#Questions)
   
   ## Installation
-  - npm install - npm install --save mysql2 - npm i sequelize - npm i dotenv
+  - npm install 
+  - npm i --save mysql2 
+  - npm i sequelize 
+  - npm i dotenv
 
   ## Usage
   ![alttext](./assets/images/site.png)
@@ -28,7 +31,7 @@
   Starter code Xandromus
 
   ## Tests
-  I have tried API calls in every API route to get, put, post, and delete. 
+  I have used API calls in every API route to get, put, post, and delete. 
 
   ## Questions
   If you would like to ask me any questions. Contact me at my email address below or you can check out my Github profile.
