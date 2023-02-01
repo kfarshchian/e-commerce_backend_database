@@ -28,7 +28,7 @@
   Starter code Xandromus
 
   ## Tests
-  I have tried API calls in every API route to get, put, post, and delete. 
+  I have used API calls in every API route to get, put, post, and delete. 
 
   ## Questions
   If you would like to ask me any questions. Contact me at my email address below or you can check out my Github profile.
