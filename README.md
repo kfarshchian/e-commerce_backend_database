@@ -20,7 +20,7 @@
   ## Installation
   - npm install 
   - - npm install 
-  - -save mysql2 
+  - --save mysql2 
   - - npm i sequelize 
   - - npm i dotenv
 
