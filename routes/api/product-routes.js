@@ -66,7 +66,7 @@ router.post('/', async (req, res) => {
     } catch (err) {
       res.status(400).json(err);
     }
-  });
+  
   Product.create(req.body)
     .then((product) => {
       // if there's product tags, we need to create pairings to bulk create in the ProductTag model
@@ -87,7 +87,7 @@ router.post('/', async (req, res) => {
       console.log(err);
       res.status(400).json(err);
 });
-
+});
 // update product
 router.put('/:id', (req, res) => {
   // update product data
