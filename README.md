@@ -18,7 +18,11 @@
   - [Questions](#Questions)
   
   ## Installation
-  - npm install - npm install --save mysql2 - npm i sequelize - npm i dotenv
+  - npm install 
+  - - npm install 
+  - -save mysql2 
+  - - npm i sequelize 
+  - - npm i dotenv
 
   ## Usage
   ![alttext](./assets/images/{add name of picture here})
