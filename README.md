@@ -24,6 +24,7 @@
   - npm i dotenv
 
   ## Usage
+  - Walk through video: https://drive.google.com/file/d/11uyp5CquJRx8e1Q9wRRKz5_lVz1ADsBs/view
   ![alttext](./assets/images/site.png)
   This project makes it easier for an e-commerce website to maintain its databases. They can perform API get, post, put, and delete calls to adjust whatever needs to fix, added, or deleted all in one place without having to know all the table information. They only need to get the ID of what needs to be done and fix it from an API call. They also only need the category name or product name to add new information to the database.
   
